@@ -1,5 +1,5 @@
 # FraudDetectionUEBAUsingGraphDatabase
-Bank Fraud Detection using Neo4j as UEBA with AI/ML Capabilities -- A Prototyp
+Bank Fraud Detection using Neo4j as UEBA with AI/ML Capabilities -- A Prototype
 
 ========================================================================================
 Datasets used for First Party Fraud and Second Party Fraud Use Cases are from: https://github.com/neo4j-graph-examples/fraud-detection/tree/main/data
